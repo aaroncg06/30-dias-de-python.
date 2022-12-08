@@ -1,0 +1,24 @@
+
+#level 1/
+First_name = aaron
+Last_name = cantador_gomez
+full_name = aaron_cantador_gomez
+Country = spain 
+City = jerez
+Age = 16
+is_married = true
+year = 2006
+computer = is light on
+ first_name, last_name, country, age, year = "aaron","cantador gomez", "spain", "16","2006"
+#level 2/
+print(type(aaron))
+print(type(cantador_gomez))
+number_one = 5
+number_two = 4
+number_one + number_two = 9
+number_one - number_two = 1
+number_one · number_two = 20
+number_one / number_two = 1.25
+number_one % number_two = 1
+number_one ** number_two = 5**4
+number_one // number_two =  1
